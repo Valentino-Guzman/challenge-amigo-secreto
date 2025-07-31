@@ -1,5 +1,3 @@
-# challenge-amigo-secreto
-
 # 🎁 Proyecto Amigo Secreto
 
 Una aplicación web interactiva desarrollada en JavaScript, HTML y CSS para organizar sorteos de amigo secreto de forma divertida y visual. Permite agregar participantes y seleccionar aleatoriamente uno como "amigo secreto".
